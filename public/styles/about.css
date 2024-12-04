@@ -1,0 +1,10 @@
+.col-md-7{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.second-div{
+  background-color: #FF4545;
+  color: white;
+}
